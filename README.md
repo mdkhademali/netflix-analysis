@@ -10,11 +10,6 @@ This project involves analyzing movies from Netflix that were released in the 19
 - To filter movies by genre (in this case, Action movies).
 - To count how many short action movies (those with a duration of less than 90 minutes) were released during the 1990s.
 
-## Project Structure
-
-Netflix_Analysis/ │ ├── data/ # Contains the data files │ └── netflix_data.csv # Netflix data CSV file │ ├── main.py # Main Python script for analysis │ ├── notebook.ipynb # Jupyeter Notebook │ └── README.md # This file
-
-
 ## Requirements
 
 The project requires the following Python libraries:
