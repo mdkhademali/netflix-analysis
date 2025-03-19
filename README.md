@@ -1,4 +1,4 @@
-# Netflix Movie Analysis (1990s)
+## Netflix Movie Analysis (1990s)
 
 This project was created as part of a solution to a problem encountered during a DataCamp course. The task was to analyze Netflix data, specifically focusing on movies released in the 1990s.
 
