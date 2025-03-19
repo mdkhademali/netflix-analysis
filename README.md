@@ -22,3 +22,5 @@ The project requires the following Python libraries:
 ## Acknowledgments
 
 This project was created as part of a DataCamp course to practice data analysis and manipulation techniques using Python.
+
+© mdkhademali
