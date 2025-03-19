@@ -19,7 +19,7 @@ The project requires the following Python libraries:
 
 ![Movie Duration Histogram](image/result_image.png)
 
-## Acknowledgments
+## Acknowledgment
 
 This project was created as part of a DataCamp course to practice data analysis and manipulation techniques using Python.
 
